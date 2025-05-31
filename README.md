@@ -1,1 +1,1 @@
-# DIRA-STR
+# DIRA-STr
